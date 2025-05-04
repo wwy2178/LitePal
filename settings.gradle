@@ -1,0 +1,2 @@
+rootProject.name = "LitePal"
+include 'sample', 'core'
